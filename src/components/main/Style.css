@@ -1,0 +1,10 @@
+.main{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+    padding: 0 200px;
+    gap: 25px;
+}
