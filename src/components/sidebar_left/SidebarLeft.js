@@ -4,7 +4,7 @@ import BookmarkIcon from '@mui/icons-material/Bookmark';
 import GroupsIcon from '@mui/icons-material/Groups';
 import EventIcon from '@mui/icons-material/Event';
 import ExtensionIcon from '@mui/icons-material/Extension';
-import BookmarksIcon from '@mui/icons-material/Bookmarks';
+// import BookmarksIcon from '@mui/icons-material/Bookmarks';
 
 
 
@@ -13,10 +13,10 @@ const SidebarLeft = () => {
     <div className="sidebar__left">
       <div className='profile'>
         <div className='profile__header'>
-          <img src='background.png' alt='photo'/>
+          <img src='https://wallpaperaccess.com/full/2068772.jpg' alt=''/>
         </div>
         <div className='profile__photo'>
-          <img src='/my profile.jpeg' alt='profile'/>
+          <img src='https://avatars.githubusercontent.com/u/53811651?v=4' alt=''/>
         </div>
         <div className='profile__des'>
           <h2>Sandeep Karumanchi</h2>

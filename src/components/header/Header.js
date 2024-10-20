@@ -13,7 +13,7 @@ const Header = () => {
   return (
     <div className="header">
       <div className='logo'>
-      <img src='/logo.jpeg' alt='This is a logo'/>
+      <img src='https://raw.githubusercontent.com/phanison898/github-drive/refs/heads/main/logo.png' alt='This is a logo'/>
       </div>
       <div className='search__user'>
       <SearchIcon />

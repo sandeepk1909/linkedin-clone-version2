@@ -13,7 +13,7 @@ const Post = () => {
     <div className="post">
 
       <div className='post__content'>
-        <img src='/logo.jpeg' alt='avatar'/>
+        <img src='https://imgv3.fotor.com/images/gallery/cartoon-character-generated-by-Fotor-ai-art-creator.jpg' alt='logo'/>
         <div className='post__details'>
           <h4>Tata Consultancy Services</h4>
           <p>120 followers</p>
@@ -28,7 +28,7 @@ const Post = () => {
       The CM has announced state mourning on Thursday (October 10). Ratan Tata , chairman emeritus of Tata Sons and philanthropist, passed away on October 9 . He was 86 years old.
       </div>
       <div className='post__img'>
-        <img src='/tata ji.jpg' alt='tata ji'/>
+        <img src='https://miro.medium.com/v2/resize:fit:1200/0*3eFtGuipxfAM8yLj.jpg' alt='tata ji'/>
       </div>
       <div className='post__stats'>
         <img src='https://raw.githubusercontent.com/phanison898/github-drive/234f5f675ec08270d8103d02db10917651f027bc/1.svg' alt='reaction'/>

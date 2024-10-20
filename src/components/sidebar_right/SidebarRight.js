@@ -69,10 +69,10 @@ const SidebarRight = () => {
       <p>Sandeep, unlock your full potential with LinkedIn Premium</p>
       </div>
       <div className='picture'>
-        <img src='/my profile.jpeg' alt='photo'/>
+        <img src='https://avatars.githubusercontent.com/u/53811651?v=4' alt=''/>
       </div>
       <div className='picture2'>
-      <img src='/logo.jpeg' alt='logo'/>
+      <img src='https://raw.githubusercontent.com/phanison898/github-drive/refs/heads/main/logo.png' alt='logo'/>
       </div>
       <div className='des'>
         <p>See who's viewed your profile in the last 90 days</p>

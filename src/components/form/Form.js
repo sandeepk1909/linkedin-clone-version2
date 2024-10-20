@@ -8,7 +8,7 @@ const Form = () => {
   return (
     <div className="form">
       <div className='form__top'>
-        <img src='/logo.jpeg' alt='avatar'/>
+        <img src='https://raw.githubusercontent.com/phanison898/github-drive/refs/heads/main/logo.png' alt='avatar'/>
         <input type='text' placeholder='Start a post, try writing with AI'/>
 
       </div>
